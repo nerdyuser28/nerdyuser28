@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nerdyuser28
-- 👀 I’m interested in HP, 1D, coding, any nerdy hobby
-- 🌱 I’m currently learning JavaScript (very beginner)
+- 👀 I’m into nearly any nerdy hobby
+- 🌱 I’m currently learning python
 - 😄 Pronouns: she/they
